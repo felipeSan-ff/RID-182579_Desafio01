@@ -1,0 +1,134 @@
+* {
+    font-family: inter;
+    margin: 0;
+}
+
+.menu-superior {
+    width: 100%;
+    height: 475px;
+    background-color: #303030;
+    color: #ffff;
+}
+
+.titulo-principal {
+    padding-top: 206px;
+    margin-left: 62px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.paragrafo-titulo {
+    margin-top: 28px;
+    margin-left: 62px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.informacao {
+    height: 229px;
+    background-color: #F9F9F9;
+    display: flex;
+    gap: 200px;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.numero {
+    
+    margin-top: 67px;
+    font-size: 40px;
+    
+
+}
+
+.sem-destaque {
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.apresentacao-projeto {
+    padding: 77px 54px 77px 77px ;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    gap: 64px;
+}
+
+.box-apresentacao {
+    margin-top: 280px;
+    margin-right: 50px;
+}
+
+.box-assunto {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.box-dados {
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: 300;
+    
+
+
+}
+
+.imagem-projeto {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.box-formulario {
+    height: 638px;
+    text-align: center;
+    background-color: #303030;
+   
+}
+
+.titulo-formulario {
+    padding-top: 100px;
+    color: white;
+    margin: 25px;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+input {
+    margin: 15px;
+    border-radius: 10px;
+    height: 72px;
+    width: 508px;
+    padding-left: 20px;
+    color: #898080;
+    border: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+button {
+    border-radius: 10px;
+    height: 74px;
+    width: 268px;
+    color: white;
+    background-color: #C07212;
+    margin-bottom: 100px;
+    font-size: 20px;
+    margin-top: 80px;
+    border: 0;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:#dba25c;
+    color: white;
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 3px #C07212;
+}
+
+
